@@ -1,3 +1,9 @@
+body {
+    width: 800px;
+    margin: auto;
+    margin-top: 20px;
+}
+
 img {
     width: 500px;
     height: auto;
@@ -6,6 +12,13 @@ img {
 a {
     font-size: 18px;
     font-weight: bold;
+    background-color: rgb(72, 72, 221);
+    color: white;
+    padding: 10px;
+    margin: 5px 0px;
+    display: inline-block;
+    width: 200px;
+    text-decoration: none;
 }
 
 h1 {
